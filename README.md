@@ -32,6 +32,10 @@ Android base.
 - [LineageOS README](
   README.mkdwn).
 
+[SissystemD](
+  https://github.com/themartiancompany/sissystemd)
+is a core component.
+
 ## License
 
 All the code which is not release under a non-compatible
